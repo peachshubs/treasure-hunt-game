@@ -1,6 +1,3 @@
-treasure-hunt-game
-Working title: Realm of The Forest
-
 Overview
 A treasure-hunting game where the main objective is to collect keys placed around the forest to unlock doors and treasure chests while facing tricky obstacles like lava paths and twisting trees. There are 4 "levels", i.e 4 chests situated inside dungeons with appropriate obstacles.
 
