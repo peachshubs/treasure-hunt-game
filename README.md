@@ -33,6 +33,8 @@ Level 4
 
 UI fixes (Start screen, gameplay scenes, etc.)
 
+Game Deployment for accessibility
+
 World map updates
 
 ![image](https://github.com/user-attachments/assets/94d2df6c-21b9-48b7-ab1b-41f504f44ae4)
