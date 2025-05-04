@@ -13,15 +13,19 @@ This game was developed using Java and JFrame with required appropriate Java cla
 ![image](https://github.com/user-attachments/assets/211cbd0d-a424-4315-8bce-d3f4b1fd9676)
 
 Level 1
+
 ![image](https://github.com/user-attachments/assets/de10635a-1980-43ba-85f2-835700c8d554)
 
 Level 2
+
 ![image](https://github.com/user-attachments/assets/a44027e6-1bdb-4d91-b97c-98e30a0720be)
 
 Level 3
+
 ![image](https://github.com/user-attachments/assets/7772a7ee-85bd-4be4-8ee4-edacf079c5e0)
 
 Level 4
+
 ![image](https://github.com/user-attachments/assets/e048e34b-a9d0-4f75-a47c-9d94dda1685f)
 
 
