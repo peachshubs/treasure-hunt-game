@@ -29,12 +29,12 @@ Level 4
 ![image](https://github.com/user-attachments/assets/e048e34b-a9d0-4f75-a47c-9d94dda1685f)
 
 
-- Updates
+- Updates (to be done)
 
-UI fixes (Start screen, gameplay scenes, etc.)
+- UI fixes (Start screen, gameplay scenes, etc.)
 
-Game Deployment for accessibility
+- Game Deployment for accessibility
 
-World map updates
+- World map updates
 
 ![image](https://github.com/user-attachments/assets/94d2df6c-21b9-48b7-ab1b-41f504f44ae4)
